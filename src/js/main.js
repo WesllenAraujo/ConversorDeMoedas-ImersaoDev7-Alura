@@ -1,5 +1,5 @@
 var valorDolar = prompt('Digite o valor em dólar:')
-var cotacaoDolar = 4.87;
+var cotacaoDolar = 4.91;
 
 var valorReal = valorDolar * cotacaoDolar;
 valorReal = valorReal.toFixed(2);
